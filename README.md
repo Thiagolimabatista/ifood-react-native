@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ifood.svg)](https://github.com/ThiagoDeLimaBatista/react-native-ifood) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <br>
 
