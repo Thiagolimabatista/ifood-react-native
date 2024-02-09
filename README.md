@@ -91,7 +91,7 @@ $ react-native run-android
 <br><br>
 <br>
 
-## :mega: ⬇ Abaixo, as principais interfaces:
+## :mega: ⬇ Below, the main interfaces:
 
 <br><br>
 <br>
@@ -110,7 +110,8 @@ $ react-native run-android
 <br><br><br><br>
 
 ### 1.2 src/pages/Wallet/index.js
-#### 1.2.1 Interface após o usuário selecionar o ícone de QR Code
+
+#### 1.2.1 Interface after the user selects the QR Code icon
 
 <br>
 
@@ -132,7 +133,8 @@ $ react-native run-android
 <br><br><br><br>
 
 ### 1.5 src/pages/Item/index.js
-#### 1.5.1 Interface após o usuário selecionar a oferta
+
+#### 1.5.1 Interface after the user selects the offer
 
 <br>
 
