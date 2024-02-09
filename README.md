@@ -8,20 +8,20 @@
 
 <div align="center">
 
-[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ifood.svg)](https://github.com/ThiagoDeLimaBatista/react-native-ifood) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Thiagolimabatista-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ifood.svg)](https://github.com/ThiagoDeLimaBatista/react-native-ifood) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <br>
 
-![ifood-home](https://github.com/RenanBorba/react-native-ifood/assets/48495838/7e6733e0-5d3c-4e79-84cc-da67df9ecfb4)
+![ifood-home](https://github.com/Thiagolimabatista/ifood-react-native)
 
 </div>
 
 <br>
 
-Aplicação Front-end desenvolvida em React Native para clone das principais interfaces do aplicativo Ifood, que é voltado para comercialização de alimentos e delivery de restaurantes. Consome uma API fake para as principais informações.🍟
+Front-end application developed in React Native to clone the main interfaces of the Ifood application, which is aimed at food sales and restaurant delivery. Consumes a fake API for the main information.🍟
 <br>
 
-### 🍴🍔 O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das principais interfaces do app. 
+### 🍴🍔 The project was designed with easy ways to develop the app's main interfaces.
 
 <br><br>
 
@@ -51,32 +51,36 @@ Aplicação Front-end desenvolvida em React Native para clone das principais int
 
 <br><br>
 
-## :arrow_forward: Start
-<ul>
-  <li>npm install</li>
-  <li>npm run start / npm start</li>
-</ul>
+```bash
+# Clone this repository
+$ git clone # Clone this repository
+$ git clone https://github.com/Thiagolimabatista/ifood-react-native
+# Go into the repository
+$ cd nubankRN
 
-<br><br>
+# Install dependencies
+$ yarn install
 
-## :punch: Como contribuir
-<ul>
-  <li>Dê um fork nesse repositório</li>
-  <li>Crie a sua branch com a feature</li>
-    <ul>
-      <li>git checkout -b my-feature</li>
-    </ul>
-  <li>Commit a sua contribuição</li>
-    <ul>
-      <li>git commit -m 'feat: My feature'</li>
-    </ul>
-  <li>Push a sua branch</li>
-    <ul>
-      <li>git push origin my-feature</li>
-    </ul>
-</ul>
-<br><br>
-<br>
+# Run the app (iOS)
+$ react-native run-ios --simulator="iPhone XS Max"
+
+# Run the app (Android)
+$ react-native run-android
+# Go into the repository
+$ cd ecommerce
+
+# Install dependencies
+$ yarn install
+
+# Run the app (iOS)
+$ react-native run-ios --simulator="iPhone XS Max"
+
+# Run the app (Android)
+$ react-native run-android
+```
+
+
+
 
 <div align="center">
   
@@ -171,39 +175,4 @@ Aplicação Front-end desenvolvida em React Native para clone das principais int
 
 </div>
 
-<br><br><br><br><br><br>
 
-## 3 Interface de Pedidos
-### 3.1 Interface de Pedidos anteriores
-#### 3.1.1 src/pages/PreviousRequests/index.js
-#### 3.1.2 src/components/Purchases/index.js
-
-<br>
-
-![13](https://user-images.githubusercontent.com/48495838/76021520-30b68f80-5f04-11ea-96cd-0784d7d2c3cd.png)
-<br><br><br><br>
-
-![14](https://user-images.githubusercontent.com/48495838/76021522-314f2600-5f04-11ea-803f-001d40460edf.png)
-
-<br><br><br><br>
-
-### 3.2 Interface de Pedidos em andamento
-#### 3.2.1 src/pages/Requests/index.js
-
-<br>
-
-![15](https://user-images.githubusercontent.com/48495838/76150957-566fa000-608e-11ea-928f-383d6a2cbfcf.png)
-
-<br><br><br><br><br><br>
-
-## 4 Interface de Perfil
-### 4.1 src/pages/Profile/index.js
-#### 4.1.1 src/components/Header/Person/index.js
-
-<br>
-
-![16](https://user-images.githubusercontent.com/48495838/76021528-3318e980-5f04-11ea-83a9-c6d0162d3bd3.png)
-
-<br><br><br>
-
-![18](https://user-images.githubusercontent.com/48495838/76151808-bf0f4a80-6097-11ea-88fa-22659513e5ac.png)
